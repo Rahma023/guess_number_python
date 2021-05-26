@@ -29,7 +29,7 @@ def computer_guess(r):
             low=guess+1
     print("Congrats! The computer guessed your number {guess} correctly")
 
-computer_guess(10)          
+computer_guess(400)          
 
         
     
